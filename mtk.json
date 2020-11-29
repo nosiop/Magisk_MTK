@@ -3,7 +3,7 @@
     "version": "8.0.3",
     "versionCode": "314",
     "link": "https://pd.zwc365.com/seturl/https://github.com/YuKLiaa/YuK_MTK/archive/Magisk_APP_8.0.3.zip",
-    "note": "https://github.com/YuKLiaa/YuK_MTK/blob/main/changelog.md"
+    "note": "https://cdn.jsdelivr.net/gh/YuKLiaa/YuK_MTK@main/changelog.md"
   },
   "stub": {
     "versionCode": "14",
@@ -16,7 +16,7 @@
     "version": "a848f10b",
     "versionCode": "21101",
     "link": "https://pd.zwc365.com/seturl/https://github.com/YuKLiaa/YuK_MTK/releases/download/magisk_zip_21101/magisk_21101.zip",
-    "note": "https://github.com/YuKLiaa/YuK_MTK/blob/main/21100.md",
+    "note": "https://cdn.jsdelivr.net/gh/YuKLiaa/YuK_MTK@main/21100.md",
     "md5": "51583e8abb774e40a2af96e2a539530d"
   }
 }
