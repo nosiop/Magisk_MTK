@@ -1,5 +1,5 @@
 # YuK_MTK
-MTK专业更新通道
+MTK专业更新通道 #已弃用
 ### Links
 * 作者的CoolApk主页[KizunaAⅠ](http://www.coolapk.com/u/987010)
 
