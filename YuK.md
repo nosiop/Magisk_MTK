@@ -3,6 +3,7 @@
 ### YuK
 
 - Remove ANDROID VERIFIED BOOT check for MediaTek devices
+- Add Qualcomm devices skip this step
 
 ### v21.4
 
