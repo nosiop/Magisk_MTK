@@ -10,13 +10,13 @@
     "link": "http://www.817on.cn/magisk/214/stub-release.apk"
   },
   "uninstaller": {
-    "link": "https://cdn.jsdelivr.net/gh/YuKLiaa/YuK_MTK@main/Magisk-uninstaller-YuK.zip"
+    "link": "https://raw.sevencdn.com/YuKLiaa/YuK_MTK/main/Magisk-uninstaller-YuK.zip"
   },
   "magisk": {
     "version": "21.4",
     "versionCode": "21400",
-    "link": "https://cdn.jsdelivr.net/gh/YuKLiaa/YuK_MTK@main/Magisk-21.4(YuK).zip",
-    "note": "https://cdn.jsdelivr.net/gh/YuKLiaa/YuK_MTK@main/YuK.md",
-    "md5": "ee6dd05579776e7de3a6077087846e53"
+    "link": "https://raw.sevencdn.com/YuKLiaa/YuK_MTK/main/Magisk-21.4(YuK).zip",
+    "note": "https://raw.sevencdn.com/YuKLiaa/YuK_MTK/main/YuK.md",
+    "md5": "277e74de3ac93ed4e5edcd0a19bd0c22"
   }
 }
