@@ -1,7 +1,4 @@
 # YuK_MTK
-MTK专业更新通道 #已弃用
-### Links
-* 作者的CoolApk主页[KizunaAⅠ](http://www.coolapk.com/u/987010)
-
+船新MTK更新通道
 ### Description
-仅搬运...
+仅修改默认去除vbmeta校验.
