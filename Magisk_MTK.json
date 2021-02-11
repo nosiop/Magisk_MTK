@@ -14,9 +14,9 @@
   },
   "magisk": {
     "version": "21.4",
-    "versionCode": "21400",
+    "versionCode": "YuK",
     "link": "https://raw.sevencdn.com/YuKLiaa/YuK_MTK/main/Magisk-21.4(YuK).zip",
     "note": "https://raw.sevencdn.com/YuKLiaa/YuK_MTK/main/YuK.md",
-    "md5": "277e74de3ac93ed4e5edcd0a19bd0c22"
+    "md5": "6447fedd141fafb82b80a63e42cd9604"
   }
 }
