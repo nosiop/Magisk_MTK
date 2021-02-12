@@ -2,12 +2,12 @@
   "app": {
     "version": "8.0.7",
     "versionCode": "4834",
-    "link": "http://www.817on.cn/magisk/214/MagiskManager-v8.0.7.apk",
-    "note": "http://www.817on.cn/magisk/214/changelog.md"
+    "link": "https://cdn.jsdelivr.net/gh/YuKLiaa/YuK_MTK@main/MagiskManager-v8.0.7.apk",
+    "note": "https://cdn.jsdelivr.net/gh/YuKLiaa/YuK_MTK@main/changelog.md"
   },
   "stub": {
     "versionCode": "15",
-    "link": "http://www.817on.cn/magisk/214/stub-release.apk"
+    "link": "https://cdn.jsdelivr.net/gh/YuKLiaa/YuK_MTK@main/stub-release.apk"
   },
   "uninstaller": {
     "link": "https://cdn.jsdelivr.net/gh/YuKLiaa/YuK_MTK@main/Magisk-uninstaller-YuK.zip"
