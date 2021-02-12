@@ -2,9 +2,8 @@
 
 ### YuK
 
-- Remove ANDROID VERIFIED BOOT check for MediaTek devices
-- Add ui print for MediaTek platform
-- Add Qualcomm devices skip this step
+- Remove AvB verify when using MediaTek devices
+- Add Platform printing when using MediaTek devices
 
 ### v21.4
 
