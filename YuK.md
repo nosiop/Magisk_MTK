@@ -16,4 +16,9 @@
 - [MagiskBoot] Fix a minor header checksum bug for `DHTB` header and ASUS `blob` image formats
 - [MagiskHide] Allowing hiding isolated processes if the mount namespace is separated
 
-### Full Changelog: [here](https://topjohnwu.github.io/Magisk/changes.html)
+### [Full Changelog](https://topjohnwu.github.io/Magisk/changes.html)
+
+### 夹带私货
+
+- [coolapk](http://www.coolapk.com/u/680367)
+- [余空の杂货间](https://yukongya.herokuapp.com)
