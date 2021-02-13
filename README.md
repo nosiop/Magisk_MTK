@@ -1,6 +1,6 @@
 # YuK_MTK
-MTK更新通道
 
 ### Description
 
-仅仅修改了默认去除vbmeta校验.
+- Remove AvB verify when using MediaTek devices
+- Add Platform printing when using MediaTek devices
