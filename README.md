@@ -1,4 +1,4 @@
-# YuK_MTK
+# Magisk_MTK
 
 ### Description
 
