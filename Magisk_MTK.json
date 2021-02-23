@@ -2,7 +2,8 @@
   "app": {
     "version": "22.0",
     "versionCode": "22001",
-    "link": "https://cdn.jsdelivr.net/gh/YuKongA/Magisk_MTK@Magisk-22.0/Magisk-22.0.apk"
+    "link": "https://cdn.jsdelivr.net/gh/YuKongA/Magisk_MTK@Magisk-22.0/Magisk-22.0.apk",
+    "note": "https://cdn.jsdelivr.net/gh/YuKongA/Magisk_MTK@Magisk-22.0/YuK-22.0.md"
   },
   "stub": {
     "versionCode": "18",
