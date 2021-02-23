@@ -10,7 +10,7 @@
     "link": "https://cdn.jsdelivr.net/gh/YuKongA/Magisk_MTK@Magisk-22.0/stub-release.apk"
   },
   "uninstaller": {
-    "link": "https://cdn.jsdelivr.net/gh/YuKLiaa/YuK_MTK@main/Magisk-uninstaller-YuK.zip"
+    "link": "https://cdn.jsdelivr.net/gh/YuKongA/Magisk_MTK@Magisk-22.0/uninstall.zip"
   },
   "magisk": {
     "version": "22.0",
