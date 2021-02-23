@@ -1,5 +1,10 @@
 # Magisk Changelog
 
+### YuK
+
+- Remove AvB verify when using MediaTek devices
+- Add Platform printing when using MediaTek devices
+
 ### v22.0
 
 - [General] Magisk and Magisk Manager is now merged into the same package!
