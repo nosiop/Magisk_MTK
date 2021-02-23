@@ -27,3 +27,8 @@ Another major breakthrough in this release is that devices lower than Android 9.
 - [MagiskSU] Fix incorrect APEX paths that caused `libsqlite.so` fail to load
 
 ### Full Changelog: [here](https://topjohnwu.github.io/Magisk/changes.html)
+
+### 夹带私货
+
+- [coolapk](http://www.coolapk.com/u/680367)
+- [余空の杂货间](https://yukongya.herokuapp.com)
